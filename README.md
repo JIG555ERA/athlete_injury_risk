@@ -219,7 +219,7 @@ Sports medicine and injury prevention research literature
 
 Open-source data science, AI engineering and ML communities
 
-Streamlit for rapid ML application development & Streamlit Cloud for Deployment
+Streamlit for rapid ML application development & Streamlit Cloud Community for Deployment
 
 
 ---
