@@ -217,7 +217,7 @@ Academic Project – Data Science, AI & Machine Learning
 ⭐ Acknowledgements
 Sports medicine and injury prevention research literature
 
-Open-source data science and ML communities
+Open-source data science, AI engineering and ML communities
 
 Streamlit for rapid ML application development
 
